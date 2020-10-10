@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">App Github Users</string>
+    <string name="name">Name</string>
+    <string name="company">Company</string>
+    <string name="username">username</string>
+    <string name="location">location</string>
+    <string name="repository">repository</string>
+    <string name="follower">followers</string>
+    <string name="following">following</string>
+    <string name="change_language_settings">Change Language</string>
+    <string name="tabFollowers">Followers</string>
+    <string name="tabFollowing">Following</string>
+    <string name="title">Github Users App</string>
+    <string name="search">Search Username</string>
+    <string name="list_favorite">List Favorite User</string>
+    <string name="reminder">Setting Reminder Every Day(09:00 AM)</string>
+    <string name="notification">Lets Find User People on Github</string>
+    <string name="reminder_setting">Setting Reminder</string>
+</resources>

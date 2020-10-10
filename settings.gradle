@@ -1,0 +1,3 @@
+include ':favoritesapp'
+include ':app'
+rootProject.name = "MyAppGithubUser3"

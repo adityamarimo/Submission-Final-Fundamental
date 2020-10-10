@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Github Users</string>
+    <string name="repository">Repository</string>
+    <string name="follower">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="name">Nama Avatar</string>
+    <string name="company">Perusahaan</string>
+    <string name="location">Lokasi</string>
+    <string name="tabFollowers">Pengikut</string>
+    <string name="tabFollowing">Mengikuti</string>
+    <string name="title">Aplikasi Pengguna Github</string>
+    <string name="search">Cari Nama Pengguna</string>
+    <string name="change_language_settings">Ganti Bahasa</string>
+    <string name="list_favorite">Daftar Pengguna Terfavorit</string>
+    <string name="reminder">Atur Pengingat Setiap Hari(09:00 Pagi)</string>
+    <string name="notification">Ayo Temukan Seorang Pengguna di Github</string>
+    <string name="reminder_setting">Atur Pengingat</string>
+</resources>
